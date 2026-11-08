@@ -34,8 +34,12 @@
     </screenshots>
 
     <releases>
-        <release version="0.3.45" date="2026-10-26">
+        <release version="0.3.52" date="2026-11-07">
+            <url type="details">https://github.com/openOMSI-org/openOMSI/releases/tag/v0.3.52</url>
             <description></description>
+        </release>
+        <release version="0.3.45" date="2026-10-26">
+            <description/>
         </release>
         <release version="0.3.42" date="2026-10-26"/>
         <release version="0.3.37" date="2026-10-17"/>
